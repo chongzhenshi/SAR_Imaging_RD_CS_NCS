@@ -1,0 +1,2 @@
+# SAR_Imaging_RD_CS_NCS
+主要实现SAR成像中的RD和CS以及NCS算法 该算法可以直接用于加拿大的星载SAR数据
